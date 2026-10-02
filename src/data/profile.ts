@@ -5,9 +5,9 @@ export type LinkItem = {
 };
 
 export const profile = {
-  name: "홍길동",
-  bio: "한 줄 소개를 입력해주세요",
-  avatarUrl: "",
+  name: "장기호",
+  bio: "풀스택 개발자 : 요즘은 ai 개발에 관심이 많아요",
+  avatarUrl: "https://placehold.co/150x150/orange/white.png",
 };
 
 export const links: LinkItem[] = [
